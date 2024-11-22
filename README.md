@@ -5,6 +5,11 @@
 - [LeetCode](https://leetcode.com/anushyadav/)
 - [GitHub](https://github.com/Anushyadav17)
 
+- ## 📊 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/anushyadav?theme=light&font=Inter&ext=activity)
+
+
 
 <!--
 **Anushyadav17/Anushyadav17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
