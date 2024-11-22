@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🌟 Coding Profiles
+
+- [LeetCode](https://leetcode.com/anushyadav/)
+- [GitHub](https://github.com/Anushyadav17)
+
+
 <!--
 **Anushyadav17/Anushyadav17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
