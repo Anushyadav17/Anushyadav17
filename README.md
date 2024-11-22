@@ -7,7 +7,7 @@
 
 - ## 📊 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anushyadav?theme=dark&font=JetBrainsMono&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anushyadav?theme=dark&font=JetBrainsMono)
 
 
 
