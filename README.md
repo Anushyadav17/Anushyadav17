@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Skills  
-**Languages**: C/C++, Java, SQL | **Web Tech**: React, Node.js, Express.js, MongoDB | **Core**: Data Structures, Algorithms, OOPS  
+**Languages**: C/C++, Java, SQL || **Web Tech**: React, Node.js, Express.js, MongoDB || **Core**: Data Structures, Algorithms, OOPS  
 
 ---
 
